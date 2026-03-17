@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos
+.env
+*.env
+
+# Datos pesados
+*.csv
+*.xlsx
+*.json
+projects/football-stats/data/
